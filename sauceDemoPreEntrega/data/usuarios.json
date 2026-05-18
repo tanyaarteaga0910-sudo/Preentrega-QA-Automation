@@ -1,0 +1,17 @@
+[
+  {
+    "username":"standard_user",
+    "password":"secret_sauce",
+    "resultado":"exitoso"
+  },
+  {
+    "username":"visual_user",
+    "password":"secret_sauce",
+    "resultado":"exitoso"
+  },
+  {
+    "username":"locked_out_user",
+    "password":"secret_sauce",
+    "resultado":"Epic sadface: Sorry, this user has been locked out."
+  }
+]
